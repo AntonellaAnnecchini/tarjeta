@@ -1,0 +1,30 @@
+img{
+    width: 240px;
+    height: 240px;
+    border-radius: 50%;
+
+}
+body{
+      background-color: white;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      font-family: arial;
+}
+
+.tarjeta{
+    box-shadow: 0 0 0 10px rgba(0, 0, 0, 0.2);
+    border-radius: 0.5rem;
+    width: 300px;
+    text-align: center;
+    background-color: white;
+    padding: 1rem;
+}
+
+button{
+    background-color: #3B82F6;
+    font-size: 1.2rem;
+    color: white;
+    padding: 0.5rem 1rem;
+}
